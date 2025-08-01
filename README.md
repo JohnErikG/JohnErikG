@@ -1,6 +1,6 @@
 ## Hello, I'm John Garcia 👋
 <h1>
-  programdor jr.
+  junior programmer
 </h1>
 <!--
 **JohnErikG/JohnErikG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
